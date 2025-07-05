@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for alexetrey -->
 
-# 👋 Hi, I'm Alex Rijal
+# 👋 Hi, I'm Alexetrey
 
 🎮 Minecraft Plugin Developer | 💻 Java & Skript Expert | 🌐 Freelance Dev Since 2020
 
