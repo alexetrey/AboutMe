@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alexetrey&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/alexetrey?style=social)
-![Repos](https://img.shields.io/github/repos/alexetrey)
+
 
 ---
 
